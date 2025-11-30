@@ -1,9 +1,10 @@
 import './App.scss'
+import SocialLinksProfile from './components/social-links-profile/SocialLinksProfile'
 
 function App() {
   return (
     <div className="app">
-      <p>Social Links Profile Component</p>
+      <SocialLinksProfile />
     </div>
   )
 }

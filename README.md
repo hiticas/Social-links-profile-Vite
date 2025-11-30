@@ -1,7 +1,7 @@
 # Frontend Mentor - Social Links Profile
 
 ## Screenshot
-![](preview.jpg)
+![](preview.png)
 
 A simple solution to the Frontend Mentor **Social Links Profile** challenge.
 
