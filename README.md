@@ -1,13 +1,12 @@
-# Frontend Mentor - Social Links Profile
+# Social Links Profile
+
+## Live Demo
+- **Live URL:** https://social-links-profile-vite.netlify.app/
 
 ## Screenshot
 ![](preview.png)
 
 A simple solution to the Frontend Mentor **Social Links Profile** challenge.
-
-## Live Demo
-- **Solution URL:** https://social-links-profile-vite.netlify.app/
-- **Live Site:** https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
 ## Built With
 - Vite
